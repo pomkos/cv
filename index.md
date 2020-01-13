@@ -1,45 +1,46 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Peter Gates' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Peter Gates
+Doctoral Candidate, Data Scientist in Progress.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="pgeczy@kent.edu">pgeczy@kent.edu</a>
+| <a href="https://peti.work">My Web Page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working on separating dynamic biking's neurological effects from potential muscular effects.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Biomedical Science: Exercise Physiology
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Parkinson's disease, aerobic exercise, neural connectivity, time-series signal analysis.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017 - present`
+__Kent State University. Kent, OH.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Doctoral Candidate
+- PhD in Biomedical Science, Exercise Physiology concentration
 
-- Sizar
+`2015 - 2017`
+__University of Akron. Akron, OH__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- M.Sc. in Biological Science
 
-- Fellow
+`2007 - 2012`
+__Kent State University. Kent, OH.__
 
+- B.S. in Exercise Science, Premed
+- Minor in Psychology
 
 
 ## Awards
