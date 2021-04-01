@@ -47,10 +47,13 @@ __Kent State University. Kent, OH.__
 
 `2020`
 Graduate Student Abstract Award, *Brain Health Research Institute*, Kent, OH
+
 `2012`
 Graduated Cum Laude, *Kent State University*, Kent, OH
+
 `2011-2012`
 President's List, *Kent State University*, Kent, OH
+
 `2008-2011`
 Dean's List, *Kent State University*, Kent, OH
 
