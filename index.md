@@ -53,7 +53,7 @@ __Kent State University. Kent, OH.__
 `2015 - 2017`
 - Effects of bisphenol A on overweight zebrafish undergoing an exercise regime.
 
-## Awards, Presentations, Publications
+## Presentations, Publications
 
 `2021`
 - Presentation at the Society for Neuroscience's Annual Conference
