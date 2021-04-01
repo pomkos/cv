@@ -6,7 +6,7 @@ title: Peter Gates' CV
 Doctoral Candidate, Data Scientist in Progress.
 
 <div id="webaddress">
-<a href="https://portfolio.peti.work"> :file_folder: Portfolio</a>
+:file_folder: <a href="https://portfolio.peti.work"> Portfolio</a>
   | <a href="mailto:pgeczy@kent.edu"> :e-mail: pgeczy@kent.edu</a>
   | <a href="https://github.com/pomkos/toc"> :octocat: Github</a>
 </div>
