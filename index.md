@@ -8,7 +8,7 @@ Doctoral Candidate, Data Scientist in Progress.
 <div id="webaddress">
     <a href="https://portfolio.peti.work"> &#128194; Portfolio</a>
   | <a href="mailto:pgeczy@kent.edu"> 📧 pgeczy@kent.edu</a>
-  | <a href="https://github.com/pomkos/toc"> <img src="https://avatars.githubusercontent.com/u/583231?v=4" width = 10> Github</a>
+  | <a href="https://github.com/pomkos/toc"> <img src="https://avatars.githubusercontent.com/u/583231?v=4" width = 15> Github</a>
 </div>
 
 ## Currently
