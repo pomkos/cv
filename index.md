@@ -95,11 +95,12 @@ __Kent State University. Kent, OH.__
 ## Teaching Experience
 
 `2017 - present`
-- Teaching assistant in Anatomy and Physiology I/II, Foundations in Biology, Human Anatomy at Kent State University
+- Teaching assistant for Anatomy and Physiology I/II, 
+  - Foundations in Biology, Human Anatomy at Kent State University
 - NEOREMA instructor at Kent State University
 
 `2015 - 2017`
-- Teaching assistant in Anatomy and Physiology I/II at the University of Akron
+- Teaching assistant for Anatomy and Physiology I/II at the University of Akron
 
 `2011 - 2012`
 - Independent English, Chemistry, Biology, Psychology tutor
