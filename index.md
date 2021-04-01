@@ -8,12 +8,12 @@ Doctoral Candidate, Data Scientist in Progress.
 <div id="webaddress">
     <a href="https://portfolio.peti.work"> &#128194; Portfolio</a>
   | <a href="mailto:pgeczy@kent.edu"> 📧 pgeczy@kent.edu</a>
-  | <a href="https://github.com/pomkos/toc"> <img src="https://avatars.githubusercontent.com/u/583231?v=4" width = 15> Github</a>
+  | <a href="https://github.com/pomkos/toc">Github</a>
 </div>
 
 ## Currently
 
-Working on a model to predict outcomes for Dr. Ridgel's dynamic bike using previously collected data.
+Modeling outcomes for Dr. Ridgel's dynamic bike using previously collected data.
 
 ### Specialized in
 
@@ -57,13 +57,13 @@ __Kent State University. Kent, OH.__
 ## Presentations, Publications
 
 `2021`
-- Presentation at the Society for Neuroscience's Annual Conference
+- Research poster at the Society for Neuroscience's Annual Conference
   - *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
 - Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz
   - *Parkinson's disease, dance, and dynamic cycling*
 
 `2020`
-- Presentation at the Brain Health Research Institute's Eigth Annual Neuroscience Symposium
+- Research poster at the Brain Health Research Institute's Eigth Annual Neuroscience Symposium
   - *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
 
 `2019`
@@ -126,8 +126,9 @@ __Kent State University. Kent, OH.__
 - FreeNAS home server; Web hosting; Python projects
 - Science fiction books; Computer games
 
-#### Footer
+
+<!---
+-- #### Footer
 
 Last updated: April, 2021
-
-
+-->
