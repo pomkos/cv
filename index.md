@@ -111,7 +111,7 @@ __Kent State University. Kent, OH.__
 - Medical school clinical rotations *60 hours*
 
 `2010 - 2012`
-- Physician shadowing
+- Physician shadowing *70 hours*
 
 `2008 - 2010`
 - Nursing clinical rotations *200 hours*
