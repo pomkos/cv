@@ -7,13 +7,13 @@ Doctoral Candidate, Data Scientist in Progress.
 
 <div id="webaddress">
 <a href="pgeczy@kent.edu">pgeczy@kent.edu</a>
-| <a href="https://peti.work">My Web Page</a>
+| <a href="https://portfolio.peti.work">Portfolio</a>
 </div>
 
 
 ## Currently
 
-Working on separating dynamic biking's neurological effects from potential muscular effects.
+Working on a model to predict outcomes for Dr. Ridgel's dynamic bike using previously collected data.
 
 ### Specialized in
 
@@ -21,7 +21,7 @@ Biomedical Science: Exercise Physiology
 
 ### Research interests
 
-Parkinson's disease, aerobic exercise, neural connectivity, time-series signal analysis.
+Parkinson's disease, aerobic exercise, anaerobic exercise, neural connectivity, data science
 
 ## Education
 
@@ -45,12 +45,14 @@ __Kent State University. Kent, OH.__
 
 ## Awards
 
+`2020`
+Graduate Student Abstract Award, *Brain Health Research Institute*, Kent, OH
 `2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+Graduated Cum Laude, *Kent State University*, Kent, OH
+`2011-2012`
+President's List, *Kent State University*, Kent, OH
+`2008-2011`
+Dean's List, *Kent State University*, Kent, OH
 
 ## Publications
 
