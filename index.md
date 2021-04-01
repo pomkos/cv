@@ -42,15 +42,15 @@ __Kent State University. Kent, OH.__
 - B.S. in Exercise Science, Premed
 - Minor in Psychology
 
-# Research Experience
+## Research Experience
 
 `2017 - present`
-Effects of dance on Parkinsonian symptoms. 
-Determining optimal settings on the dynamic bike.
-Effect of induced glaucoma in mice on the visual cortex.
+- Effects of dance on Parkinsonian symptoms. 
+- Determining optimal settings on the dynamic bike.
+- Effect of induced glaucoma in mice on the visual cortex.
 
 `2015 - 2017`
-Effects of bisphenol A on overweight zebrafish undergoing an exercise regime.
+- Effects of bisphenol A on overweight zebrafish undergoing an exercise regime.
 
 ## Awards, Presentations, Publications
 
