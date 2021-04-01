@@ -46,6 +46,7 @@ __Kent State University. Kent, OH.__
 `2018 - present`
 - Effects of dance on Parkinsonian symptoms. 
 - Determining optimal settings on the dynamic bike.
+
 `2017`
 - Effect of induced glaucoma in mice on the visual cortex.
 
@@ -98,7 +99,7 @@ __Kent State University. Kent, OH.__
 - Teaching assistant for Anatomy and Physiology I/II at the University of Akron
 
 `2011 - 2012`
-- Independent English, Chemistry, Biology, Psychology tutor
+- Independent tutor in English, Chemistry, Biology, Psychology
 - Substitute teacher's assistant at Kent State University's Child Development Center
 
 `2006-2012`
