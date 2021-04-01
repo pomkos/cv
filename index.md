@@ -113,8 +113,10 @@ __Kent State University. Kent, OH.__
 ## Clinical Experience
 `2013 - 2015`
 - Medical school clinical rotations *60 hours*
+
 `2010 - 2012`
 - Physician shadowing
+
 `2008 - 2010`
 - Nursing clinical rotations *200 hours*
 
