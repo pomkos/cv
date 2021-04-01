@@ -124,11 +124,11 @@ __Kent State University. Kent, OH.__
 - German - *speak, read, write with basic competency*
 
 ## Hobbies
-- Weightlifting | Hiking | Backpacking
-- FreeNAS home server | Web hosting | Python projects
-- Science fiction books | Computer games
+- Weightlifting; Hiking; Backpacking
+- FreeNAS home server; Web hosting; Python projects
+- Science fiction books; Computer games
 
-### Footer
+#### Footer
 
 Last updated: April, 2021
 
