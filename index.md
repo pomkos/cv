@@ -7,7 +7,7 @@ Doctoral Candidate, Data Scientist in Progress.
 
 <div id="webaddress">
 <a href="https://portfolio.peti.work">Portfolio</a>
-  | <a href="pgeczy@kent.edu">pgeczy@kent.edu</a>
+  | <a href="mailto:pgeczy@kent.edu">pgeczy@kent.edu</a>
   | <a href="tel:"></a>
 </div>
 
