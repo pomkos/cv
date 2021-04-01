@@ -8,7 +8,6 @@ Doctoral Candidate, Data Scientist in Progress.
 <div id="webaddress">
 <a href="https://portfolio.peti.work">Portfolio</a>
   | <a href="mailto:pgeczy@kent.edu">pgeczy@kent.edu</a>
-  | <a href="tel:+1330-815-7635">330-815-7635</a>
 </div>
 
 ## Currently
@@ -57,7 +56,7 @@ __Kent State University. Kent, OH.__
 
 `2021`
 - Presentation at the Society for Neuroscience's Annual Conference
-  - *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
+  - **Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease**
 - Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz
   - *Parkinson's disease, dance, and dynamic cycling*
 
