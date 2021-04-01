@@ -59,7 +59,7 @@ __Kent State University. Kent, OH.__
 - Presentation at the Society for Neuroscience's Annual Conference
   - *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
 - Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz
-  - *Parkinson's Disease, dance, and dynamic cycling*
+  - *Parkinson's disease, dance, and dynamic cycling*
 
 `2020`
 - Presentation at the Brain Health Research Institute's Eigth Annual Neuroscience Symposium
@@ -82,8 +82,6 @@ __Kent State University. Kent, OH.__
   - *The relationship between cell phone use, physical and sedentary activity,* 
   - *and cardiorespiratory fitness in a sample of U.S. college students*
 
-
-
 ## Awards
 `2020`
 - Graduate Student Abstract Award, *Brain Health Research Institute*, Kent, OH
@@ -94,6 +92,22 @@ __Kent State University. Kent, OH.__
 
 `2008-2011`
 - Dean's List, *Kent State University*, Kent, OH
+
+## Teaching Experience
+
+`2017 - present`
+- Teaching assistant in Anatomy and Physiology I/II, Foundations in Biology, Human Anatomy at Kent State University
+- NEOREMA instructor at Kent State University
+
+`2015 - 2017`
+- Teaching assistant in Anatomy and Physiology I/II at the University of Akron
+
+`2011 - 2012`
+- Independent English, Chemistry, Biology, Psychology tutor
+- Substitute teacher's assistant at Kent State University's Child Development Center
+
+`2006-2012`
+- Sunday school teacher and assistant at Riverwood Community Chapel
 
 ### Footer
 
