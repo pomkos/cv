@@ -45,12 +45,8 @@ __Kent State University. Kent, OH.__
 
 ## Awards
 
-### Graduate
-
 `2020`
 Graduate Student Abstract Award, *Brain Health Research Institute*, Kent, OH
-
-### Undergraduate
 
 `2012`
 Graduated Cum Laude, *Kent State University*, Kent, OH
@@ -94,8 +90,8 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: April, 2021 -->
+Last updated: April, 2021
 
 
