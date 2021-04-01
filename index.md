@@ -108,6 +108,19 @@ __Kent State University. Kent, OH.__
 `2006-2012`
 - Sunday school teacher and assistant at Riverwood Community Chapel
 
+## Clinical Experience
+`2013 - 2015`
+- Medical school clinical rotations *60 hours*
+`2010 - 2012`
+- Physician shadowing
+`2008 - 2010`
+- Nursing clinical rotations *200 hours*
+
+## Languages
+- English - *speak, read, write fluently*
+- Hungarian - *speak, read, write fluently*
+- German - *speak, read, write with basic competency*
+
 ### Footer
 
 Last updated: April, 2021
