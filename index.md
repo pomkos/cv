@@ -55,20 +55,28 @@ __Kent State University. Kent, OH.__
 ## Awards, Presentations, Publications
 
 `2021`
-- Presentation at the Society for Neuroscience's Annual Conference: *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
-- Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz: *Parkinson's Disease, dance, and dynamic cycling*
+- Presentation at the Society for Neuroscience's Annual Conference
+  - *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
+- Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz
+  - *Parkinson's Disease, dance, and dynamic cycling*
 
 `2020`
-- Presentation at the Brain Health Research Institute's Eigth Annual Neuroscience Symposium: *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
+- Presentation at the Brain Health Research Institute's Eigth Annual Neuroscience Symposium
+  - *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
 - Graduate Student Abstract Award, *Brain Health Research Institute*, Kent, OH
 
 `2019`
-- Research poster at the South East Regional International Society for Computational Biology symposium: *Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults*
-- Research poster at the Cleveland Brain Health Initiative: *Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults*
-- Research poster at Kent State University’s Seventh Annual Neuroscience Symposium: *Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults*
+- Research poster at the South East Regional International Society for Computational Biology symposium
+  - *Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults*
+- Research poster at the Cleveland Brain Health Initiative
+  - *Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults*
+- Research poster at Kent State University’s Seventh Annual Neuroscience Symposium
+  - *Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults*
 
 `2013`
-- International Journal of Behavioral Nutrition and Physical Activity: *The relationship between cell phone use, physical and sedentary activity, and cardiorespiratory fitness in a sample of U.S. college students*
+- International Journal of Behavioral Nutrition and Physical Activity
+  - *The relationship between cell phone use, physical and sedentary activity,* 
+    *and cardiorespiratory fitness in a sample of U.S. college students*
 
 `2011-2012`
 - Graduated Cum Laude, *Kent State University*, Kent, OH
