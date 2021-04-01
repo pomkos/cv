@@ -19,7 +19,7 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 95%;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -87,13 +87,15 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 55%;
 	margin-bottom: 1em;
+	text-align: left;
+	font-size: 90%;
 	/*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+/* li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
@@ -109,7 +111,7 @@ li {
 li ul {
 	position: relative;
 	left: 0;
-	width: 100%;
+	width: 100%; /*default was 100%*/
 	margin-top: 0.25em;
 }
 
@@ -169,7 +171,7 @@ a:hover {
 	left: 25%;
 	color: #ccc;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 90%;
+	font-size: 85%;
 }
 
 #webaddress a {
