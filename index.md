@@ -77,7 +77,7 @@ __Kent State University. Kent, OH.__
 `2013`
 - International Journal of Behavioral Nutrition and Physical Activity
   - *The relationship between cell phone use, physical and sedentary activity,* 
-    *and cardiorespiratory fitness in a sample of U.S. college students*
+  - *and cardiorespiratory fitness in a sample of U.S. college students*
 
 `2011-2012`
 - Graduated Cum Laude, *Kent State University*, Kent, OH
