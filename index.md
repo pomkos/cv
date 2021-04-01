@@ -42,11 +42,30 @@ __Kent State University. Kent, OH.__
 - B.S. in Exercise Science, Premed
 - Minor in Psychology
 
+# Research Experience
 
-## Awards
+`2017 - present`
+Effects of dance on Parkinsonian symptoms. 
+Determining optimal settings on the dynamic bike.
+Effect of induced glaucoma in mice on the visual cortex.
+
+`2015 - 2017`
+Effects of bisphenol A on overweight zebrafish undergoing an exercise regime.
+
+## Awards, Presentations, Publications
+
+`2021`
+Presentation at the Society for Neuroscience's Annual Conference: *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
+Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz: *Parkinson's Disease, dance, and dynamic cycling*
 
 `2020`
+Presentation at the Brain Health Research Institute's Eigth Annual Neuroscience Symposium: *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
 Graduate Student Abstract Award, *Brain Health Research Institute*, Kent, OH
+
+`2019`
+Research poster at the South East Regional International Society for Computational Biology symposium: *Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults*
+Research poster at the Cleveland Brain Health Initiative: *Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults*
+Research poster at Kent State University’s Seventh Annual Neuroscience Symposium: *Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults*
 
 `2012`
 Graduated Cum Laude, *Kent State University*, Kent, OH
@@ -56,39 +75,6 @@ President's List, *Kent State University*, Kent, OH
 
 `2008-2011`
 Dean's List, *Kent State University*, Kent, OH
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
 
 ### Footer
 
