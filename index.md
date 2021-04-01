@@ -44,9 +44,10 @@ __Kent State University. Kent, OH.__
 
 ## Research Experience
 
-`2017 - present`
+`2018 - present`
 - Effects of dance on Parkinsonian symptoms. 
 - Determining optimal settings on the dynamic bike.
+`2017`
 - Effect of induced glaucoma in mice on the visual cortex.
 
 `2015 - 2017`
