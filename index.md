@@ -5,9 +5,11 @@ title: Peter Gates' CV
 # Peter Gates
 Doctoral Candidate, Data Scientist in Progress.
 
+<div id="webaddress">
 <a href="https://portfolio.peti.work">Portfolio</a>
-| <div id="webaddress"><a href="pgeczy@kent.edu">pgeczy@kent.edu</a></div>
-| <a href="tel:">
+  | <a href="pgeczy@kent.edu">pgeczy@kent.edu</a>
+  | <a href="tel:"></a>
+</div>
 
 ## Currently
 
