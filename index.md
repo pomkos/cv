@@ -76,7 +76,7 @@ __
 - Independent tutor in English, Chemistry, Biology, Psychology
 - Substitute teacher's assistant at Kent State University's Child Development Center
 
-`2006-2012`
+`2006 - 2012`
 - Sunday school teacher and assistant at Riverwood Community Chapel
 
 ## Data Science Experience
@@ -104,11 +104,11 @@ __
 `2020`
 - Graduate Student Abstract Award, *Brain Health Research Institute*, Kent, OH
 
-`2011-2012`
+`2011 - 2012`
 - Graduated Cum Laude, *Kent State University*, Kent, OH
 - President's List, *Kent State University*, Kent, OH
 
-`2008-2011`
+`2008 - 2011`
 - Dean's List, *Kent State University*, Kent, OH
 
 ## Clinical Experience
