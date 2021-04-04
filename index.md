@@ -3,7 +3,8 @@ layout: cv
 title: Peter Gates' CV
 ---
 # Peter Gates
-Doctoral Candidate, Data Scientist in Progress.
+Doctoral Candidate at Kent State University
+Data Scientist in Progress
 
 <div id="webaddress">
     <a href="https://portfolio.peti.work"> &#128194; Portfolio</a>
