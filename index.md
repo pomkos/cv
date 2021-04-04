@@ -16,11 +16,13 @@ __
 ## Education
 
 `2017 - present`
-PhD. Biomedical Science (Exercise Physiology), Kent State University, OH
+- PhD. Biomedical Science (Exercise Physiology), Kent State University, OH
+
 `2015 - 2017`
-M.S. Biology, University of Akron, OH
+- M.S. Biology, University of Akron, OH
+
 `2007 - 2012`
-B.S. Exercise Science (Exercise Physiology), Premed, Kent State University, OH
+- B.S. Exercise Science (Exercise Physiology), Premed, Kent State University, OH
 
 ## Research Experience
 
