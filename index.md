@@ -11,36 +11,16 @@ Doctoral Candidate, Data Scientist in Progress.
   | <a href="mailto:pgeczy@kent.edu"> 📧 pgeczy@kent.edu</a>
 </div>
 
-## Currently
-
-Modeling outcomes for Dr. Ridgel's dynamic bike using previously collected data.
-
-### Specialized in
-
-Biomedical Science: Exercise Physiology
-
-### Research interests
-
-Parkinson's disease, aerobic exercise, anaerobic exercise, neural connectivity, data science
+__
 
 ## Education
 
 `2017 - present`
-__Kent State University. Kent, OH.__
-
-- Doctoral Candidate
-- PhD in Biomedical Science, Exercise Physiology concentration
-
+PhD. Biomedical Science (Exercise Physiology), Kent State University, OH
 `2015 - 2017`
-__University of Akron. Akron, OH__
-
-- M.Sc. in Biological Science
-
+M.S. Biology, University of Akron, OH
 `2007 - 2012`
-__Kent State University. Kent, OH.__
-
-- B.S. in Exercise Science, Premed
-- Minor in Psychology
+B.S. Exercise Science (Exercise Physiology), Premed, Kent State University, OH
 
 ## Research Experience
 
