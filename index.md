@@ -60,22 +60,12 @@ __
 - International Journal of Behavioral Nutrition and Physical Activity
   - *The relationship between cell phone use, physical and sedentary activity, and cardiorespiratory fitness in a sample of U.S. college students*
 
-## Awards
-`2020`
-- Graduate Student Abstract Award, *Brain Health Research Institute*, Kent, OH
-
-`2011-2012`
-- Graduated Cum Laude, *Kent State University*, Kent, OH
-- President's List, *Kent State University*, Kent, OH
-
-`2008-2011`
-- Dean's List, *Kent State University*, Kent, OH
-
 ## Teaching Experience
 
 `2017 - present`
-- Teaching assistant for Anatomy and Physiology I/II, 
-  - Foundations in Biology, Human Anatomy at Kent State University
+- Teaching assistant for Human Anatomy at Kent State University
+- Teaching assistant for Anatomy and Physiology I/II at Kent State University
+- Teaching assistant for Foundations in Biology at Kent State University
 - NEOREMA instructor at Kent State University
 
 `2015 - 2017`
@@ -87,6 +77,38 @@ __
 
 `2006-2012`
 - Sunday school teacher and assistant at Riverwood Community Chapel
+
+## Data Science Experience
+`2021`
+- Twitch chat isolating algorithm (Pillar)
+`2020`
+- Parkinsonian tremor entropy calculator
+- Covid dashboard and dash builder
+- Receipt parser and venmo requestor
+`2019`
+- Dance limb movement entropy calculator
+- Dynamic bike raw output file formatter
+
+## Certifications
+`2021`
+- Data Scientist in Python (Dataquest)
+- Data Analyst in Python (Dataquest)
+- Machine Learning Intermediate with Python (Dataquest)
+`2020`
+- Data Scientist with Python (Datacamp)
+`2021`
+- Data Scientist with R
+
+## Awards
+`2020`
+- Graduate Student Abstract Award, *Brain Health Research Institute*, Kent, OH
+
+`2011-2012`
+- Graduated Cum Laude, *Kent State University*, Kent, OH
+- President's List, *Kent State University*, Kent, OH
+
+`2008-2011`
+- Dean's List, *Kent State University*, Kent, OH
 
 ## Clinical Experience
 `2013 - 2015`
