@@ -98,17 +98,6 @@ __
 `2008 - 2010`
 - Nursing clinical rotations *200 hours*
 
-## Languages
-- English - *speak, read, write fluently*
-- Hungarian - *speak, read, write fluently*
-- German - *speak, read, write with basic competency*
-
-## Hobbies
-- Weightlifting; Hiking; Backpacking
-- FreeNAS home server; Web hosting; Python projects
-- Science fiction books; Computer games
-
-
 <!---
 -- #### Footer
 
