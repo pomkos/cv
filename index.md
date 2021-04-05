@@ -60,43 +60,47 @@ __
 `2015 - 2017`
 - Effects of bisphenol A on overweight zebrafish undergoing an exercise regime.
 
-## Presentations, Publications
+## Presentations
 
 `2021`
-- Research poster at the Society for Neuroscience's Annual Conference
-  - *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
-- Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz
-  - *Parkinson's disease, dance, and dynamic cycling*
+- *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
+  - Research poster at the Society for Neuroscience's Annual Conference
+- *Parkinson's disease, dance, and dynamic cycling*
+  - Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz
 
 `2020`
-- Research poster at the Brain Health Research Institute's Eigth Annual Neuroscience Symposium
-  - *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
+- *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
+  - Research poster at the Brain Health Research Institute's Eigth Annual Neuroscience Symposium
 
 `2019`
-- Research poster at the South East Regional International Society for Computational Biology symposium
-  - *Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults*
-- Research poster at the Cleveland Brain Health Initiative
-  - *Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults*
-- Research poster at Kent State University’s Seventh Annual Neuroscience Symposium
-  - *Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults*
+- *Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults*
+  - Research poster at the South East Regional International Society for Computational Biology symposium
+- *Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults*
+  - Research poster at the Cleveland Brain Health Initiative
+- *Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults*
+  - Research poster at Kent State University’s Seventh Annual Neuroscience Symposium
+
+## Publications
 
 `2013`
-- International Journal of Behavioral Nutrition and Physical Activity
-  - *The relationship between cell phone use, physical and sedentary activity, and cardiorespiratory fitness in a sample of U.S. college students*
+- *The relationship between cell phone use, physical and sedentary activity, and cardiorespiratory fitness in a sample of U.S. college students*
+  - International Journal of Behavioral Nutrition and Physical Activity
 
 ## Teaching Experience
 
 `2017 - present`
-- Teaching assistant for Human Anatomy at Kent State University
-- Teaching assistant for Anatomy and Physiology I/II at Kent State University
-- Teaching assistant for Foundations in Biology at Kent State University
+- Human Anatomy, Teaching assistant at Kent State University
+- Anatomy and Physiology I, Teaching assistant at Kent State University
+- Anatomy and Physiologi II, Teaching assistant at Kent State University
+- Foundations in Biology, Teaching assistant at Kent State University
 - NEOREMA instructor at Kent State University
 
 `2015 - 2017`
-- Teaching assistant for Anatomy and Physiology I/II at the University of Akron
+- Anatomy and Physiology I, Teaching assistant at the University of Akron
+- Anatomy and Physiology II, Teaching assistant at the University of Akron
 
 `2011 - 2012`
-- Independent tutor in English, Chemistry, Biology, Psychology
+- English, Chemistry, Biology, Psychology Independent tutor
 - Substitute teacher's assistant at Kent State University's Child Development Center
 
 `2006 - 2012`
