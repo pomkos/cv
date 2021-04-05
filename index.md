@@ -25,6 +25,27 @@ __
 `2007 - 2012`
 - B.S. Exercise Science (Exercise Physiology), Premed, Kent State University, OH
 
+## Certifications
+`2021`
+- Data Scientist in Python (Dataquest)
+- Data Analyst in Python (Dataquest)
+- Machine Learning Intermediate with Python (Dataquest)
+`2020`
+- Data Scientist with Python (Datacamp)
+`2021`
+- Data Scientist with R
+
+## Awards
+`2020`
+- Graduate Student Abstract Award, *Brain Health Research Institute*, Kent, OH
+
+`2011 - 2012`
+- Graduated Cum Laude, *Kent State University*, Kent, OH
+- President's List, *Kent State University*, Kent, OH
+
+`2008 - 2011`
+- Dean's List, *Kent State University*, Kent, OH
+
 ## Research Experience
 
 `2018 - present`
@@ -82,34 +103,15 @@ __
 ## Data Science Experience
 `2021`
 - Twitch chat isolating algorithm (Pillar)
+
 `2020`
 - Parkinsonian tremor entropy calculator
 - Covid dashboard and dash builder
 - Receipt parser and venmo requestor
+
 `2019`
 - Dance limb movement entropy calculator
 - Dynamic bike raw output file formatter
-
-## Certifications
-`2021`
-- Data Scientist in Python (Dataquest)
-- Data Analyst in Python (Dataquest)
-- Machine Learning Intermediate with Python (Dataquest)
-`2020`
-- Data Scientist with Python (Datacamp)
-`2021`
-- Data Scientist with R
-
-## Awards
-`2020`
-- Graduate Student Abstract Award, *Brain Health Research Institute*, Kent, OH
-
-`2011 - 2012`
-- Graduated Cum Laude, *Kent State University*, Kent, OH
-- President's List, *Kent State University*, Kent, OH
-
-`2008 - 2011`
-- Dean's List, *Kent State University*, Kent, OH
 
 ## Clinical Experience
 `2013 - 2015`
