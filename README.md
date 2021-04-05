@@ -1,3 +1,3 @@
 # Curriculum Vitae
 
-Accessible through [github pages](https://pomkos.github.io/)
+Accessible via github pages [here](https://pomkos.github.io/)
