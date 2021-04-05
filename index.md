@@ -30,8 +30,10 @@ __
 - Data Scientist in Python (Dataquest)
 - Data Analyst in Python (Dataquest)
 - Machine Learning Intermediate with Python (Dataquest)
+
 `2020`
 - Data Scientist with Python (Datacamp)
+
 `2021`
 - Data Scientist with R
 
