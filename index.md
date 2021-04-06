@@ -80,6 +80,8 @@ __
   - Research poster at the Society for Neuroscience's Annual Conference
 - Parkinson's disease, dance, and dynamic cycling
   - Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz
+- A model to predict effort during one session of dynamic cycling
+    - My model was presented by Dr. Ridgel at the ACSM annual conference
 
 `2020`
 - Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease
