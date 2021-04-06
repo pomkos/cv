@@ -63,6 +63,7 @@ __
 
 ## Data Science Experience
 `2021`
+- Development of a mixed model to maximize outcomes in dynamic bike studies (Dissertation)
 - Twitch chat isolating algorithm (Pillar)
 
 `2020`
