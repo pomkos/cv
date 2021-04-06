@@ -24,6 +24,7 @@ __
 
 `2007 - 2012`
 - B.S. Exercise Science (Exercise Physiology), Premed, Kent State University, OH
+- Minor in Psychology, Kent State University, OH
 
 ## Certifications
 `2021`
