@@ -60,6 +60,19 @@ __
 `2015 - 2017`
 - Effects of bisphenol A on overweight zebrafish undergoing an exercise regime.
 
+## Data Science Experience
+`2021`
+- Twitch chat isolating algorithm (Pillar)
+
+`2020`
+- Parkinsonian tremor entropy calculator
+- Covid dashboard and dash builder
+- Receipt parser and venmo requestor
+
+`2019`
+- Dance limb movement entropy calculator
+- Dynamic bike raw output file formatter
+
 ## Presentations
 
 `2021`
@@ -109,19 +122,6 @@ __
 
 `2006 - 2012`
 - Sunday school teacher and assistant at Riverwood Community Chapel
-
-## Data Science Experience
-`2021`
-- Twitch chat isolating algorithm (Pillar)
-
-`2020`
-- Parkinsonian tremor entropy calculator
-- Covid dashboard and dash builder
-- Receipt parser and venmo requestor
-
-`2019`
-- Dance limb movement entropy calculator
-- Dynamic bike raw output file formatter
 
 ## Clinical Experience
 `2013 - 2015`
