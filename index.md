@@ -63,21 +63,21 @@ __
 ## Presentations
 
 `2021`
-- *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
+- Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease
   - Research poster at the Society for Neuroscience's Annual Conference
-- *Parkinson's disease, dance, and dynamic cycling*
+- Parkinson's disease, dance, and dynamic cycling
   - Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz
 
 `2020`
-- *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
+- Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease
   - Research poster at the Brain Health Research Institute's Eigth Annual Neuroscience Symposium
 
 `2019`
-- *Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults*
+- Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults
   - Research poster at the South East Regional International Society for Computational Biology symposium
-- *Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults*
+- Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults
   - Research poster at the Cleveland Brain Health Initiative
-- *Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults*
+- Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults
   - Research poster at Kent State University’s Seventh Annual Neuroscience Symposium
 
 ## Publications
