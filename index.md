@@ -108,7 +108,7 @@ disease
 ## Teaching Experience
 
 `2017 - present`
-- Science and Math tutor for Athletics Department at Kent State University
+- BSCI, social science and math tutor for Athletics Department at Kent State University
     - Fall 2019, Spring 2020, Fall 2020, Spring 2021
 - Human Anatomy, Teaching assistant at Kent State University 
     - Spring 2019, Spring 2020, Spring 2021
