@@ -88,14 +88,20 @@ __
 ## Teaching Experience
 
 `2017 - present`
-- Human Anatomy, Teaching assistant at Kent State University - Spring 2019, Spring 2020, Spring 2021
-- Anatomy and Physiology I, Teaching assistant at Kent State University - Fall 2019, Fall 2020
-- Foundations in Biology, Teaching assistant at Kent State University -  Fall 2017, Spring 2018, Fall 2018
-- NEOREMA instructor at Kent State University - Summer 2019
+- Human Anatomy, Teaching assistant at Kent State University 
+    - Spring 2019, Spring 2020, Spring 2021
+- Anatomy and Physiology I, Teaching assistant at Kent State University 
+    - Fall 2019, Fall 2020
+- Foundations in Biology, Teaching assistant at Kent State University 
+    -  Fall 2017, Spring 2018, Fall 2018
+- NEOREMA instructor at Kent State University 
+    - Summer 2019
 
 `2015 - 2017`
-- Anatomy and Physiology I, Teaching assistant at the University of Akron - Fall 2015, Fall 2016
-- Anatomy and Physiology II, Teaching assistant at the University of Akron - Spring 2016, Spring 2017
+- Anatomy and Physiology I, Teaching assistant at the University of Akron 
+    - Fall 2015, Fall 2016
+- Anatomy and Physiology II, Teaching assistant at the University of Akron 
+    - Spring 2016, Spring 2017
 
 `2011 - 2012`
 - English, Chemistry, Biology, Psychology Independent tutor
