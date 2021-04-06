@@ -82,7 +82,7 @@ __
   - Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz
 - Optimization of the SMART dynamic bike to improve motor function in Parkinson’s
 disease
-    - My abstract was presented by Dr. Ridgel at the annual American College of Sports Medicine (ACSM) conference
+    - Accepted  Research Poster will be presented at the ACSM conference in June 2021.
 
 `2020`
 - Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease
