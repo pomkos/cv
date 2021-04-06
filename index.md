@@ -77,15 +77,16 @@ __
 
 `2021`
 - Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease
-  - Research poster at the Society for Neuroscience's Annual Conference
+  - Research poster at the Society for Neuroscience's (SfN) Annual Conference
 - Parkinson's disease, dance, and dynamic cycling
   - Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz
-- A model to predict effort during one session of dynamic cycling
-    - My model was presented by Dr. Ridgel at the ACSM annual conference
+- Optimization of the SMART dynamic bike to improve motor function in Parkinson’s
+disease
+    - My abstract was presented by Dr. Ridgel at the annual American College of Sports Medicine (ACSM) conference
 
 `2020`
 - Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease
-  - Research poster at the Brain Health Research Institute's Eigth Annual Neuroscience Symposium
+  - Research poster at the Brain Health Research Institute's (BHRI) Eigth Annual Neuroscience Symposium
 
 `2019`
 - Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults
