@@ -83,21 +83,19 @@ __
 ## Publications
 
 `2013`
-- *The relationship between cell phone use, physical and sedentary activity, and cardiorespiratory fitness in a sample of U.S. college students*
-  - International Journal of Behavioral Nutrition and Physical Activity
+- Lepp, Andrew, Jacob E Barkley, Gabriel J Sanders, Michael Rebold, and __Peter Gates__. 2013. “The Relationship between Cell Phone Use, Physical and Sedentary Activity, and Cardiorespiratory Fitness in a Sample of U.S. College Students.” International Journal of Behavioral Nutrition and Physical Activity 10 (1): 79. https://doi.org/10.1186/1479-5868-10-79.
 
 ## Teaching Experience
 
 `2017 - present`
-- Human Anatomy, Teaching assistant at Kent State University
-- Anatomy and Physiology I, Teaching assistant at Kent State University
-- Anatomy and Physiologi II, Teaching assistant at Kent State University
-- Foundations in Biology, Teaching assistant at Kent State University
-- NEOREMA instructor at Kent State University
+- Human Anatomy, Teaching assistant at Kent State University - Spring 2019, Spring 2020, Spring 2021
+- Anatomy and Physiology I, Teaching assistant at Kent State University - Fall 2019, Fall 2020
+- Foundations in Biology, Teaching assistant at Kent State University -  Fall 2017, Spring 2018, Fall 2018
+- NEOREMA instructor at Kent State University - Summer 2019
 
 `2015 - 2017`
-- Anatomy and Physiology I, Teaching assistant at the University of Akron
-- Anatomy and Physiology II, Teaching assistant at the University of Akron
+- Anatomy and Physiology I, Teaching assistant at the University of Akron - Fall 2015, Fall 2016
+- Anatomy and Physiology II, Teaching assistant at the University of Akron - Spring 2016, Spring 2017
 
 `2011 - 2012`
 - English, Chemistry, Biology, Psychology Independent tutor
