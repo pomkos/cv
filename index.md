@@ -78,8 +78,7 @@ __
 ## Presentations
 
 `2021`
-- Optimization of high-cadence cycling parameters to improve motor function in people with
-Parkinson's disease
+- Creation of a new model that may predict performance on the SMART dynamic bike in people with Parkinson's disease
   - Research poster at the 35th Annual Graduate Research Symposium
 - Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease
   - Research poster at the Society for Neuroscience's (SfN) Annual Conference
