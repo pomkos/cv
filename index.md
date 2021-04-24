@@ -78,6 +78,9 @@ __
 ## Presentations
 
 `2021`
+
+- Examining the link between sleep disturbance and physical activity in Parkinson's disease
+  - Helped undergraduate with evaluation and calculation of statistics, results were presented at Kent State University's Undergraduate Research Symposium
 - Creation of a new model that may predict performance on the SMART dynamic bike in people with Parkinson's disease
   - Research poster at the 35th Annual Graduate Research Symposium
 - Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease
@@ -86,7 +89,7 @@ __
   - Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz
 - Optimization of the SMART dynamic bike to improve motor function in Parkinson’s
 disease
-    - Accepted  Research Poster will be presented at the American College of Sports Medicine (ACSM) conference in June 2021.
+  - Accepted  Research Poster will be presented at the American College of Sports Medicine (ACSM) conference in June 2021.
 
 `2020`
 - Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease
