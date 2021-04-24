@@ -57,6 +57,10 @@ __Kent State University. Kent, OH.__
 ## Presentations, Publications
 
 `2021`
+- Statistics was presented at Kent State University's Undergraduate Research Symposium
+  - *Examining the link between sleep disturbance and physical activity in Parkinson's disease*
+- Research poster at Kent State University's Graduate Research Symposium
+  - *Optimization of high-cadence cycling parameters to improve motor function in people with Parkinson’s Disease*
 - Research poster at the Society for Neuroscience's Annual Conference
   - *Optimization of the SMART dynamic bike to improve motor function in Parkinson's disease*
 - Presentation at Kent State University's Biomedical Sciences Student Advisory Council Datablitz
