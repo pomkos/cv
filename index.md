@@ -7,7 +7,8 @@ Doctoral Candidate at Kent State University;
 Data Scientist in Progress
 
 <div id="webaddress">
-    <a href="https://portfolio.peti.work"> &#128194; Portfolio</a>
+    <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MTI5cTUwOGZ1YTUybWRjN282NmtubjY2aDkgcGdhdGU4OUBt&amp;tmsrc=pgate89%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+  | <a href="https://portfolio.peti.work"> &#128194; Portfolio</a>
   | <a href="https://github.com/pomkos/toc">Github</a>
   | <a href="mailto:hello@peti.work"> 📧 hello@peti.work</a>
 </div>
