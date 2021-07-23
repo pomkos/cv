@@ -3,7 +3,7 @@ layout: cv
 title: Peter Gates' CV
 ---
 # Peter Gates
-Doctoral Candidate at Kent State University; 
+Doctoral Graduate; 
 Data Scientist in Progress
 
 <div id="webaddress">
@@ -16,7 +16,7 @@ __
 
 ## Education
 
-`2017 - present`
+`2017 - 2021`
 - PhD. Biomedical Science (Exercise Physiology), Kent State University, OH
 
 `2015 - 2017`
