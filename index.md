@@ -8,7 +8,9 @@ Data Scientist in Progress
 
 <div id="webaddress">
     <a href="https://portfolio.peti.work"> &#128194; Portfolio</a>
+  | <a href="https://dissertation.peti.work"> Dissertation</a>
   | <a href="https://github.com/pomkos/toc">Github</a>
+  | <a href="https://resume.peti.work">Resume</a>
   | <a href="mailto:hello@peti.work"> 📧 hello@peti.work</a>
 </div>
 
