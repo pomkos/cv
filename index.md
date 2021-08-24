@@ -66,7 +66,8 @@ __
 ## Data Science Experience
 `2021`
 - Development of a mixed model to maximize outcomes in dynamic bike studies (Dissertation)
-- Twitch chat isolating algorithm (Pillar)
+- Feature engineering from twitch chat using custom algorithms and NLP (Pillar)
+- Implementation of machine learning pipeline (Pillar)
 
 `2020`
 - Parkinsonian tremor entropy calculator
