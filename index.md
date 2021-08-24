@@ -68,6 +68,7 @@ __
 - Development of a mixed model to maximize outcomes in dynamic bike studies (Dissertation)
 - Feature engineering from twitch chat using custom algorithms and NLP (Pillar)
 - Implementation of machine learning pipeline (Pillar)
+- Automation of dynamic bike file output analysis workflow
 
 `2020`
 - Parkinsonian tremor entropy calculator
