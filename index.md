@@ -4,7 +4,7 @@ title: Peter Gates' CV
 ---
 # Peter Gates
 Doctoral Graduate; 
-Data Scientist in Progress
+Data Scientist
 
 <div id="webaddress">
     <a href="https://peti.work"> &#128194; Portfolio</a>
