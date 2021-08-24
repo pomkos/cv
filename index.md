@@ -38,7 +38,7 @@ __
 - Data Scientist with Python (Datacamp)
 
 `2019`
-- Data Scientist with R
+- Data Scientist with R (Datacamp)
 
 ## Awards
 `2020`
