@@ -113,7 +113,7 @@ disease
 
 `2021`
 - __Gates, Peter__; Ridgel L., Angela. 2021. "Evaluation of demographic variables as predictors of motor symptoms in Parkinson's disease after dynamic cycling". Smart Health. Under review.
-- __Gates, Peter__; Discenzo M., Fred; Kim Hyun, Jin; Lemke, Zachary; Meggitt, Joan; Ridgel L., Angela. 2021. "Entropy of movement during community dance programs for people with Parkinson's disease and older adult". International Journal of Environmental Research and Public Health. Under review.
+- __Gates, Peter__; Discenzo M., Fred; Kim Hyun, Jin; Lemke, Zachary; Meggitt, Joan; Ridgel L., Angela. 2021. "Entropy of movement during community dance programs for people with Parkinson's disease and older adult". International Journal of Environmental Research and Public Health. Under review, received December 15.
 
 `2020`
 -  Lemke, Zachary C; __Gates, Peter__; Kim, Jin Hyun; Discenzo, Fred; Ridgel, Angela L. 2020. "Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults". Medicine & Science in Sports & Exercise, 52(7S), 852–852. https://doi.org/10.1249/01.mss.0000684736.66069.a7
