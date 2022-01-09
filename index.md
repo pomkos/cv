@@ -7,9 +7,8 @@ Doctoral Graduate;
 Data Scientist
 
 <div id="webaddress">
-    <a href="https://peti.work"> &#128194; Portfolio</a>
-  | <a href="https://dissertation.peti.work"> Dissertation</a>
-  | <a href="https://github.com/pomkos/toc">Github</a>
+    <a href="http://rave.ohiolink.edu/etdc/view?acc_num=kent1625846829132496"> Dissertation</a>
+  | <a href="https://github.com/pomkos">Github/Portfolio</a>
   | <a href="https://resume.peti.work">Resume</a>
   | <a href="mailto:hello@peti.work"> 📧 hello@peti.work</a>
 </div>
@@ -112,7 +111,7 @@ disease
 ## Publications
 
 `2021`
-- __Gates, Peter__; Ridgel L., Angela. 2021. "Evaluation of demographic variables as predictors of motor symptoms in Parkinson's disease after dynamic cycling". Smart Health. Under review.
+- __Gates, Peter__; Ridgel L., Angela. 2021. "Evaluation of demographic variables as predictors of motor symptoms in Parkinson's disease after dynamic cycling". Smart Health. Submitted for review.
 -  __Gates, Peter__; Discenzo M., Fred; Kim, Jin Hyun; Lemke, Zack; Meggitt, Joan; Ridgel L., Angela. "Analysis of Movement Entropy during Community Dance Programs for People with Parkinson’s Disease and Older Adults: A Cohort Study". International Journal of Environmental Research and Public Health. 2022; 19(2):655. https://doi.org/10.3390/ijerph19020655 
 
 `2020`
@@ -161,5 +160,5 @@ disease
 <!---
 -- #### Footer
 
-Last updated: April, 2021
+Last updated: January, 2022
 -->
