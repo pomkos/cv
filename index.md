@@ -112,13 +112,13 @@ disease
 
 `2021`
 - __Gates, Peter__; Ridgel L., Angela. 2021. "Evaluation of demographic variables as predictors of motor symptoms in Parkinson's disease after dynamic cycling". Smart Health. Submitted for review.
--  __Gates, Peter__; Discenzo M., Fred; Kim, Jin Hyun; Lemke, Zack; Meggitt, Joan; Ridgel L., Angela. "Analysis of Movement Entropy during Community Dance Programs for People with Parkinson’s Disease and Older Adults: A Cohort Study". International Journal of Environmental Research and Public Health. 2022; 19(2):655. https://doi.org/10.3390/ijerph19020655 
+-  __Gates, Peter__; Discenzo M., Fred; Kim, Jin Hyun; Lemke, Zack; Meggitt, Joan; Ridgel L., Angela. "Analysis of Movement Entropy during Community Dance Programs for People with Parkinson’s Disease and Older Adults: A Cohort Study". International Journal of Environmental Research and Public Health. 2022; 19(2):655. [https://doi.org/10.3390/ijerph19020655](https://doi.org/10.3390/ijerph19020655).
 
 `2020`
--  Lemke, Zachary C; __Gates, Peter__; Kim, Jin Hyun; Discenzo, Fred; Ridgel, Angela L. 2020. "Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults". Medicine & Science in Sports & Exercise, 52(7S), 852–852. https://doi.org/10.1249/01.mss.0000684736.66069.a7
+-  Lemke, Zachary C; __Gates, Peter__; Kim, Jin Hyun; Discenzo, Fred; Ridgel, Angela L. 2020. "Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults". Medicine & Science in Sports & Exercise, 52(7S), 852–852. [https://doi.org/10.1249/01.mss.0000684736.66069.a7](https://doi.org/10.1249/01.mss.0000684736.66069.a7).
 
 `2013`
-- Lepp, Andrew; Barkley E., Jacob; Sanders J., Gabriel; Rebold, Michael; __Gates, Peter__. 2013. “The relationship between cell phone use, physical and sedentary activity, and cardiorespiratory fitness in a sample of U.S. college students.” International Journal of Behavioral Nutrition and Physical Activity 10 (1): 79. https://doi.org/10.1186/1479-5868-10-79.
+- Lepp, Andrew; Barkley E., Jacob; Sanders J., Gabriel; Rebold, Michael; __Gates, Peter__. 2013. “The relationship between cell phone use, physical and sedentary activity, and cardiorespiratory fitness in a sample of U.S. college students.” International Journal of Behavioral Nutrition and Physical Activity 10 (1): 79. [https://doi.org/10.1186/1479-5868-10-79.](https://doi.org/10.1186/1479-5868-10-79)
 
 ## Teaching Experience
 
