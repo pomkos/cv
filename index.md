@@ -52,7 +52,7 @@ __
 
 ## Research Experience
 
-`2018 - present`
+`2018 - 2021`
 - Effects of dance on Parkinsonian symptoms. 
 - Determining optimal settings on the dynamic bike.
 
