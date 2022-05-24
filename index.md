@@ -78,6 +78,18 @@ __
 - Dance limb movement entropy calculator
 - Dynamic bike raw output file formatter
 
+## Publications
+
+`2022`
+- __Gates, Peter__; Ridgel L., Angela. 2022. _Evaluation of demographic variables as predictors of motor symptoms in Parkinson's disease after dynamic cycling". Frontiers in Rehabilitation Sciences_. [https://www.frontiersin.org/articles/10.3389/fresc.2022.858401](https://www.frontiersin.org/articles/10.3389/fresc.2022.858401).
+-  __Gates, Peter__; Discenzo M., Fred; Kim, Jin Hyun; Lemke, Zack; Meggitt, Joan; Ridgel L., Angela. 2022. _Analysis of Movement Entropy during Community Dance Programs for People with Parkinson’s Disease and Older Adults: A Cohort Study_. International Journal of Environmental Research and Public Health. 19(2):655. [https://doi.org/10.3390/ijerph19020655](https://doi.org/10.3390/ijerph19020655).
+
+`2020`
+-  Lemke, Zachary C; __Gates, Peter__; Kim, Jin Hyun; Discenzo, Fred; Ridgel, Angela L. 2020. _Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults_. Medicine & Science in Sports & Exercise, 52(7S), 852–852. [https://doi.org/10.1249/01.mss.0000684736.66069.a7](https://doi.org/10.1249/01.mss.0000684736.66069.a7).
+
+`2013`
+- Lepp, Andrew; Barkley E., Jacob; Sanders J., Gabriel; Rebold, Michael; __Gates, Peter__. 2013. _The relationship between cell phone use, physical and sedentary activity, and cardiorespiratory fitness in a sample of U.S. college students._ International Journal of Behavioral Nutrition and Physical Activity 10 (1): 79. [https://doi.org/10.1186/1479-5868-10-79.](https://doi.org/10.1186/1479-5868-10-79)
+
 ## Presentations
 
 `2021`
@@ -107,18 +119,6 @@ disease
   - Research poster at the Cleveland Brain Health Initiative
 - Optimizing dance interventions to improve motor function in people with Parkinson’s disease and older adults
   - Research poster at Kent State University’s Seventh Annual Neuroscience Symposium
-
-## Publications
-
-`2022`
-- __Gates, Peter__; Ridgel L., Angela. 2021. "Evaluation of demographic variables as predictors of motor symptoms in Parkinson's disease after dynamic cycling". Frontiers in Rehabilitation Sciences. 2022; [https://www.frontiersin.org/articles/10.3389/fresc.2022.858401](https://www.frontiersin.org/articles/10.3389/fresc.2022.858401).
--  __Gates, Peter__; Discenzo M., Fred; Kim, Jin Hyun; Lemke, Zack; Meggitt, Joan; Ridgel L., Angela. "Analysis of Movement Entropy during Community Dance Programs for People with Parkinson’s Disease and Older Adults: A Cohort Study". International Journal of Environmental Research and Public Health. 2022; 19(2):655. [https://doi.org/10.3390/ijerph19020655](https://doi.org/10.3390/ijerph19020655).
-
-`2020`
--  Lemke, Zachary C; __Gates, Peter__; Kim, Jin Hyun; Discenzo, Fred; Ridgel, Angela L. 2020. "Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults". Medicine & Science in Sports & Exercise, 52(7S), 852–852. [https://doi.org/10.1249/01.mss.0000684736.66069.a7](https://doi.org/10.1249/01.mss.0000684736.66069.a7).
-
-`2013`
-- Lepp, Andrew; Barkley E., Jacob; Sanders J., Gabriel; Rebold, Michael; __Gates, Peter__. 2013. “The relationship between cell phone use, physical and sedentary activity, and cardiorespiratory fitness in a sample of U.S. college students.” International Journal of Behavioral Nutrition and Physical Activity 10 (1): 79. [https://doi.org/10.1186/1479-5868-10-79.](https://doi.org/10.1186/1479-5868-10-79)
 
 ## Teaching Experience
 
@@ -160,5 +160,5 @@ disease
 <!---
 -- #### Footer
 
-Last updated: January, 2022
+Last updated: May, 2022
 -->
