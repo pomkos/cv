@@ -81,8 +81,8 @@ __
 ## Publications
 
 `2022`
-- __Gates, Peter__; Ridgel L., Angela. 2022. _Evaluation of demographic variables as predictors of motor symptoms in Parkinson's disease after dynamic cycling". Frontiers in Rehabilitation Sciences_. [https://www.frontiersin.org/articles/10.3389/fresc.2022.858401](https://www.frontiersin.org/articles/10.3389/fresc.2022.858401).
--  __Gates, Peter__; Discenzo M., Fred; Kim, Jin Hyun; Lemke, Zack; Meggitt, Joan; Ridgel L., Angela. 2022. _Analysis of Movement Entropy during Community Dance Programs for People with Parkinson’s Disease and Older Adults: A Cohort Study_. International Journal of Environmental Research and Public Health. 19(2):655. [https://doi.org/10.3390/ijerph19020655](https://doi.org/10.3390/ijerph19020655).
+- __Gates, Peter__; Ridgel L., Angela. 2022. _Evaluation of demographic variables as predictors of motor symptoms in Parkinson's disease after dynamic cycling. Frontiers in Rehabilitation Sciences_. [https://www.frontiersin.org/articles/10.3389/fresc.2022.858401](https://www.frontiersin.org/articles/10.3389/fresc.2022.858401).
+-  __Gates, Peter__; Discenzo M., Fred; Kim, Jin Hyun; Lemke, Zack; Meggitt, Joan; Ridgel L., Angela. 2022. _Analysis of movement entropy during community dance programs for people with Parkinson’s Disease and older adults: A cohort study_. International Journal of Environmental Research and Public Health. 19(2):655. [https://doi.org/10.3390/ijerph19020655](https://doi.org/10.3390/ijerph19020655).
 
 `2020`
 -  Lemke, Zachary C; __Gates, Peter__; Kim, Jin Hyun; Discenzo, Fred; Ridgel, Angela L. 2020. _Sample entropy analysis of dance interventions in people with Parkinson’s disease and older adults_. Medicine & Science in Sports & Exercise, 52(7S), 852–852. [https://doi.org/10.1249/01.mss.0000684736.66069.a7](https://doi.org/10.1249/01.mss.0000684736.66069.a7).
