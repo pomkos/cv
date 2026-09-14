@@ -3,7 +3,7 @@ layout: cv
 title: Peter Gates' CV
 ---
 # Peter Gates
-Doctoral Candidate, Data Scientist in Progress.
+PhD, Biomedical Science; Data Engineer Manager at Join Parachute.
 
 <div id="webaddress">
     <a href="https://portfolio.peti.work"> &#128194; Portfolio</a>
@@ -13,11 +13,11 @@ Doctoral Candidate, Data Scientist in Progress.
 
 ## Currently
 
-Modeling outcomes for Dr. Ridgel's dynamic bike using previously collected data.
+Managing a data engineering team at Join Parachute, overseeing customer onboarding, data platform security, and project management for data science/engineering initiatives.
 
 ### Specialized in
 
-Biomedical Science: Exercise Physiology
+Data Engineering, Data Science, Biomedical Science: Exercise Physiology
 
 ### Research interests
 
@@ -25,10 +25,9 @@ Parkinson's disease, aerobic exercise, anaerobic exercise, neural connectivity, 
 
 ## Education
 
-`2017 - present`
+`2017 - 2021`
 __Kent State University. Kent, OH.__
 
-- Doctoral Candidate
 - PhD in Biomedical Science, Exercise Physiology concentration
 
 `2015 - 2017`
@@ -41,6 +40,35 @@ __Kent State University. Kent, OH.__
 
 - B.S. in Exercise Science, Premed
 - Minor in Psychology
+
+## Work Experience
+
+`2025 - present`
+__Data Engineer Manager, Join Parachute__ · Remote
+
+- Manage a team of 2 data engineers
+- Lead onboarding of new customers onto internal data platforms and reporting tools
+- Own project management for data engineering initiatives; direct security gap remediation and negotiate requirements with company stakeholders
+- Balance team delivery timelines against work-life balance considerations
+
+`2024 - 2025`
+__Senior Data Scientist, Join Parachute__ · Austin, TX / Remote
+
+- Led company onboarding to Snowflake and Power BI, including a reusable Power BI report template adopted across projects
+- Expanded the Unit Verification Report (UVR) to additional customers and new programs
+- Took on project management responsibilities for data science initiatives
+
+`2022 - 2024`
+__Data Scientist, Join Parachute__ · Austin, TX
+
+- Built the Unit Verification Report (UVR), a model (initially daily, later hourly) determining which units meet all customer, federal, and company requirements for sale — replacing a manual process of scanning barcodes into a spreadsheet for pass/fail checks
+- Built Power BI dashboards and automations using SharePoint/Power Automate dataflows and GitHub Actions
+
+`2021 - 2022`
+__Software Engineer (Contract), Galileo__ · Remote
+
+- Replaced a manual, error-prone workflow for deploying BigQuery tables from SQL stored in a Jupyter notebook with a web GUI for initializing databases and tables, including unit testing and schema/data verification
+- Technologies: Google BigQuery, Python, SQL
 
 ## Research Experience
 
