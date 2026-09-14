@@ -8,7 +8,7 @@ PhD, Biomedical Science; Data Engineer Manager at Join Parachute.
 <div id="webaddress">
     <a href="https://portfolio.peti.work"> &#128194; Portfolio</a>
   | <a href="https://github.com/pomkos/toc">Github</a>
-  | <a href="mailto:pgeczy@kent.edu"> 📧 pgeczy@kent.edu</a>
+  | <a href="mailto:pgate89@gmail.com"> 📧 pgate89@gmail.com</a>
 </div>
 
 ## Currently
