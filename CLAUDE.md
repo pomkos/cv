@@ -6,6 +6,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A Jekyll site that renders Peter Gates' CV (`index.md`) and resume (`resume.md`) as static HTML, published via GitHub Pages at https://pomkos.github.io/cv.
 
+## IMPORTANT: `master` is not the live site
+
+GitHub Pages for this repo is configured to build from the **`gh-pages` branch**, not `master`. The two branches have diverged and hold genuinely different content (`gh-pages`'s `index.md` has its own tagline, contact links, and some sections that are further ahead than `master`'s, e.g. newer publications) — `gh-pages` has no `resume.md` or `CLAUDE.md` at all, only `index.md` plus the same layout/media/config files.
+
+Editing `master` alone does **not** update the live site. Any content change meant to reach https://pomkos.github.io/cv must also be made on `gh-pages` (`git checkout gh-pages`, edit `index.md` there, commit, push) — check the existing `gh-pages` copy first rather than assuming it matches `master`, since the two have been maintained somewhat independently. Confirm with the user before merging the branches outright, since `gh-pages` carries content differences that may be intentional.
+
 ## Running locally
 
 ```
