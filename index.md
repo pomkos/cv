@@ -29,21 +29,27 @@ __
 
 `2025 - present`
 - __Data Engineer Manager__, Join Parachute (Remote)
-  - Manage a team of 2 data engineers
-  - Lead onboarding of new customers onto internal data platforms and reporting tools
-  - Own project management for data engineering initiatives; direct security gap remediation and negotiate requirements with company stakeholders
-  - Balance team delivery timelines against work-life balance considerations
+  - Grew and lead a data engineering team, hiring and mentoring engineers and analysts — including growing a non-technical transfer into a production Python contributor within 8 months
+  - Directed AI adoption across the data organization: shipped an AI-assisted compliance-review tool that cut review cycle time from 12 to 7 days, and measured roughly 2x task throughput per sprint from AI-assisted workflows
+  - Led remediation of a company-wide access-control gap, redesigning role-based permissions and driving migration off a legacy low-code platform onto an internally built framework, as the company scaled from roughly 50 to 1,200+ employees across 50 locations
+  - Shipped major releases of the Unit Verification Report (UVR) and its downstream applications, expanding coverage to additional customers (4 companies onboarded, some international)
+  - Implemented a deterministic rule-based review system, after evaluating ML approaches, that reduced manual review volume by 30-50%
+  - Deployed mobile-first internal tools used daily across dozens of company locations
 
 `2024 - 2025`
 - __Senior Data Scientist__, Join Parachute (Austin, TX / Remote)
-  - Led company onboarding to Snowflake and Power BI, including a reusable Power BI report template adopted across projects
-  - Expanded the Unit Verification Report (UVR) to additional customers and new programs
-  - Took on project management responsibilities for data science initiatives
+  - Took full ownership of the Unit Verification Report (UVR), the model the company relies on to clear product for shipment
+  - Migrated 100+ data validation tests from Snowflake to dbt across multiple enterprise customer workflows, improving reliability and consistency
+  - Built automated, customer-specific shipment validation workflows (GitHub Actions, Snowflake, Python) and a predictive-analytics dataset for customer supply forecasting
+  - Onboarded 3 additional customers/programs onto the UVR; built automations alerting internal teams to compliance and pipeline errors
+  - Grew from individual contributor into leading a specialized compliance/validation team as the company scaled roughly 150% year-over-year
 
 `2022 - 2024`
 - __Data Scientist__, Join Parachute (Austin, TX)
-  - Built the Unit Verification Report (UVR), a model (initially daily, later hourly) determining which units meet all customer, federal, and company requirements for sale — replacing a manual process of scanning barcodes into a spreadsheet for pass/fail checks
-  - Built Power BI dashboards and automations using SharePoint/Power Automate dataflows and GitHub Actions
+  - Built the compliance algorithms determining legal eligibility to ship regulated product — the origin of the Unit Verification Report (UVR)
+  - Led the rollout of a digital health-questionnaire system, moving manual paper-based review to a SQL-based QA tool
+  - Identified and fixed a data bug causing non-compliant shipments, and caught fraudulent appointment filings at company locations
+  - Built automations for customer electronic shipment file generation, shipment record reporting, and monthly regulatory biostatistics reporting
 
 `2021 - 2022`
 - __Software Engineer__ (Contract), Galileo (Remote)
@@ -147,6 +153,11 @@ __
 
 `2006 - 2012`
 - Sunday school teacher and assistant at Riverwood Community Chapel
+
+## Skills
+
+- __Data platforms & tools:__ Snowflake, dbt, Sigma Computing, Power BI, Python, SQL, GitHub Actions, Pipedream, SharePoint/Power Automate
+- __Leadership:__ People management and mentorship, hiring, project management across cross-functional teams, executive communication, relationship building across departments
 
 ## Clinical Experience
 `2013 - 2015`
