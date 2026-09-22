@@ -36,7 +36,7 @@ __
   - Led the deployment of mobile-first internal tools used daily across dozens of company locations — owning scope and design and staying involved through user testing, validation, and rollout
   - Architected a three-repo ML system (NCR Coach/Classy) for compliance-document review; combined NCR rejection rate fell 27.9% → 11.5% (−58.8% relative) post-launch, with AI evaluation coverage rising from 0% to 100% across 50 facilities — results presented by the Director of QA to company leadership as proof the tool worked (134 users, 887 NCRs reviewed)
   - Built the data engineering pod from scratch: wrote the job requisition, screened candidates, authored the technical interview, and onboarded two engineers, each with 30-60-90 plans and ongoing 1:1s
-  - Shipped 12 major UVR versions into production (Jan 2025 – Mar 2026), onboarding a new customer with nearly every release (CSL Lab, Grifols, Gemini HSAB/HSAB+, Alaska NS/RSV); grew code review volume from 4 (2024) to 134 (2026 YTD) as ownership shifted from building to leading a growing team
+  - Shipped 12 major UVR versions into production (Jan 2025 – Mar 2026), onboarding a new customer with nearly every release; grew code review volume from 4 (2024) to 134 (2026 YTD) as ownership shifted from building to leading a growing team
 
 `2023 - 2025`
 - __Senior Data Scientist__, Join Parachute (Austin, TX / Remote)
