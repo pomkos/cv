@@ -39,7 +39,7 @@ __
   - Deployed mobile-first internal tools used daily across dozens of company locations
   - Architected a multi-repo ML system for compliance-document review that cut the document rejection rate by roughly 59% post-launch and brought AI evaluation coverage to 100% across all facilities, with results presented to company leadership
   - Built the data engineering pod from scratch: wrote the job requisition, screened candidates, authored the technical interview, and onboarded two engineers, each with 30-60-90 plans and ongoing 1:1s
-  - Shipped a release train of 8 UVR epics live in a single day; grew code review volume from 4 to 130+ reviews annually as ownership shifted from building to leading a growing team
+  - Shipped 12 major UVR versions into production (Jan 2025 – Mar 2026), onboarding a new customer with nearly every release; grew code review volume from 4 (2024) to 134 (2026 YTD) as ownership shifted from building to leading a growing team
 
 `2023 - 2025`
 - __Senior Data Scientist__, Join Parachute (Austin, TX / Remote)
