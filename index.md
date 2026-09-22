@@ -33,7 +33,6 @@ __
   - Directed AI adoption across the data organization: shipped an AI-assisted compliance-review tool that cut review cycle time from 12 to 7 days, and measured roughly 2x task throughput per sprint from AI-assisted workflows
   - Led a company-wide redesign of role-based permissions and drove migration off a legacy low-code platform onto an internally built framework, as the company scaled from roughly 50 to 1,200+ employees across 50 locations
   - Shipped major releases of the Unit Verification Report (UVR) and its downstream applications, expanding coverage to additional customers (4 companies onboarded, some international)
-  - Implemented a deterministic rule-based review system, after evaluating ML approaches, that reduced manual review volume by 30-50%
   - Deployed mobile-first internal tools used daily across dozens of company locations
   - Architected a multi-repo ML system for compliance-document review that cut the document rejection rate by roughly 59% post-launch and brought AI evaluation coverage to 100% across all facilities, with results presented to company leadership
   - Built the data engineering pod from scratch: wrote the job requisition, screened candidates, authored the technical interview, and onboarded two engineers, each with 30-60-90 plans and ongoing 1:1s
