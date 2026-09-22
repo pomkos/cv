@@ -50,7 +50,7 @@ __Data Engineer Manager, Join Parachute__ · Remote
 - Directed AI adoption across the data organization: shipped an AI-assisted compliance-review tool that cut review cycle time from 12 to 7 days, and measured roughly 2x task throughput per sprint from AI-assisted workflows
 - Led a company-wide redesign of role-based permissions and drove migration off a legacy low-code platform onto an internally built framework, as the company scaled from roughly 50 to 1,200+ employees across 50 locations
 - Shipped major releases of the Unit Verification Report (UVR) and its downstream applications, expanding coverage to additional customers (4 companies onboarded, some international)
-- Deployed mobile-first internal tools used daily across dozens of company locations
+- Led the deployment of mobile-first internal tools used daily across dozens of company locations — owning scope and design and staying involved through user testing, validation, and rollout
 - Architected a multi-repo ML system for compliance-document review that cut the document rejection rate by roughly 59% post-launch and brought AI evaluation coverage to 100% across all facilities, with results presented to company leadership
 - Built the data engineering pod from scratch: wrote the job requisition, screened candidates, authored the technical interview, and onboarded two engineers, each with 30-60-90 plans and ongoing 1:1s
 - Shipped 12 major UVR versions into production (Jan 2025 – Mar 2026), onboarding a new customer with nearly every release; grew code review volume from 4 (2024) to 134 (2026 YTD) as ownership shifted from building to leading a growing team
