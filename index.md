@@ -39,24 +39,26 @@ __
   - Architected a three-repo ML system (NCR Coach/Classy) for compliance-document review; combined NCR rejection rate fell 27.9% → 11.5% (−58.8% relative) post-launch, with AI evaluation coverage rising from 0% to 100% across 50 facilities — results presented by the Director of QA to company leadership as proof the tool worked (134 users, 887 NCRs reviewed)
   - Built the data engineering pod from scratch: wrote the job requisition, screened candidates, authored the technical interview, and onboarded two engineers, each with 30-60-90 plans and ongoing 1:1s
   - Shipped 12 major UVR versions into production (Jan 2025 – Mar 2026), onboarding a new customer with nearly every release; grew code review volume from 4 (2024) to 134 (2026 YTD) as ownership shifted from building to leading a growing team
+  - Led the Whole Blood Collections Phase 2 program from April 2026, architecting its initial workflow before handing off execution to a teammate upon completion (September 2026)
 
 `2023 - 2025`
 - __Senior Data Scientist__, Join Parachute (Austin, TX / Remote)
-  - Took full ownership of the Unit Verification Report (UVR), the model the company relies on to clear product for shipment
   - Migrated 100+ data validation tests from Snowflake to dbt across multiple enterprise customer workflows, improving reliability and consistency
   - Built automated, customer-specific shipment validation workflows (GitHub Actions, Snowflake, Python) and a predictive-analytics dataset for customer supply forecasting
   - Onboarded 3 additional customers/programs onto the UVR; built automations alerting internal teams to compliance and pipeline errors
-  - Grew from individual contributor into leading a specialized compliance/validation team as the company scaled roughly 150% year-over-year
-  - Built the Orphan Unit Program end to end (data pipeline, BI reporting, Streamlit app, and validation), including a same-day customer-shipment fix a manager praised as "lightyears ahead" of typical turnaround
-  - Served as the go-to resolution authority during a company-wide reporting-system outage
+  - Worked closely with the validation team, advising on UVR validation requirements as the company scaled roughly 150% year-over-year
+  - Built the Orphan Unit Program (data pipeline, BI reporting, Streamlit app, and validation) and the Corporate Directives feature (a new compliance model threaded through UVR, uvr_mart, dataverse, and SVA reporting) end to end; modularized UVR's rules engine to support new customer- and product-specific plasma types
+  - Delivered a same-day customer shipment-file fix a manager praised as "lightyears ahead" of typical turnaround, and served as the go-to resolution authority during multiple company-wide reporting-system outages
 
 `2022 - 2023`
 - __Data Scientist__, Join Parachute (Austin, TX)
-  - Built the compliance algorithms determining legal eligibility to ship regulated product — the origin of the Unit Verification Report (UVR)
+  - Built the compliance algorithms determining eligibility to ship regulated product — the origin of the Unit Verification Report (UVR)
   - Led the rollout of a digital health-questionnaire system, moving manual paper-based review to a SQL-based QA tool
   - Identified and fixed a data bug causing non-compliant shipments, and caught fraudulent appointment filings at company locations
-  - Built automations for customer electronic shipment file generation, shipment record reporting, and monthly regulatory biostatistics reporting
-  - Partnered with the Quality organization to encode three controlled SOPs and federal shipment regulations into automated compliance logic, replacing a manual review workstream and earning a company-wide shoutout for eliminating "hundreds of hours of review work"
+  - Built automations for customer electronic shipment file generation and shipment record reporting
+  - Built the automated reporting pipeline for PPTA federal viral-reporting submissions (semiannual/annual viral counts, NAT/serology labeling, coinfection classification), including an audit-ready suite built to spec for a live FDA assessment (July 2023)
+  - Built donor acquisition funnel analytics to track and improve conversion across the donation pipeline
+  - Partnered with the Quality department to encode three controlled SOPs and federal shipment regulations into automated compliance logic, replacing a manual review workstream and earning a company-wide shoutout for eliminating "hundreds of hours of review work"
   - Migrated the compliance reporting system onto Snowflake and fully automated it; built the company's first GitHub repository, still in active use four years later
 
 `2021 - 2022`
