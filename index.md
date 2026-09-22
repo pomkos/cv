@@ -33,7 +33,6 @@ __
   - Directed AI adoption across the data organization: shipped an AI-assisted compliance-review tool that cut review cycle time from 12 to 7 days, and measured roughly 2x task throughput per sprint from AI-assisted workflows
   - Led remediation of a company-wide access-control gap, redesigning role-based permissions and driving migration off a legacy low-code platform onto an internally built framework, as the company scaled from roughly 50 to 1,200+ employees across 50 locations
   - Shipped major releases of the Unit Verification Report (UVR) and its downstream applications, expanding coverage to additional customers (4 companies onboarded, some international)
-  - Implemented a deterministic rule-based review system, after evaluating ML approaches, that reduced manual review volume by 30-50%
   - Deployed mobile-first internal tools used daily across dozens of company locations
   - Architected a three-repo ML system (NCR Coach/Classy) for compliance-document review; combined NCR rejection rate fell 27.9% → 11.5% (−58.8% relative) post-launch, with AI evaluation coverage rising from 29% to 100% across 50 facilities — announced company-wide by the CEO (134 users, 887 NCRs reviewed)
   - Built the data engineering pod from scratch: wrote the job requisition, screened candidates, authored the technical interview, and onboarded two engineers, each with 30-60-90 plans and ongoing 1:1s
