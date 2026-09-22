@@ -37,21 +37,28 @@ __
   - Shipped major releases of the Unit Verification Report (UVR) and its downstream applications, expanding coverage to additional customers (4 companies onboarded, some international)
   - Implemented a deterministic rule-based review system, after evaluating ML approaches, that reduced manual review volume by 30-50%
   - Deployed mobile-first internal tools used daily across dozens of company locations
+  - Architected a three-repo ML system (NCR Coach/Classy) for compliance-document review; combined NCR rejection rate fell 27.9% → 11.5% (−58.8% relative) post-launch, with AI evaluation coverage rising from 29% to 100% across 50 facilities — announced company-wide by the CEO (134 users, 887 NCRs reviewed)
+  - Built the data engineering pod from scratch: wrote the job requisition, screened candidates, authored the technical interview, and onboarded two engineers, each with 30-60-90 plans and ongoing 1:1s
+  - Shipped a release train of 8 UVR epics live in a single day; grew code review volume from 4 to 130+ reviews annually as ownership shifted from building to leading a growing team
 
-`2024 - 2025`
+`2023 - 2025`
 - __Senior Data Scientist__, Join Parachute (Austin, TX / Remote)
   - Took full ownership of the Unit Verification Report (UVR), the model the company relies on to clear product for shipment
   - Migrated 100+ data validation tests from Snowflake to dbt across multiple enterprise customer workflows, improving reliability and consistency
   - Built automated, customer-specific shipment validation workflows (GitHub Actions, Snowflake, Python) and a predictive-analytics dataset for customer supply forecasting
   - Onboarded 3 additional customers/programs onto the UVR; built automations alerting internal teams to compliance and pipeline errors
   - Grew from individual contributor into leading a specialized compliance/validation team as the company scaled roughly 150% year-over-year
+  - Built the Orphan Unit Program end to end (data pipeline, BI reporting, Streamlit app, and validation), including a same-day customer-shipment fix a manager praised as "lightyears ahead" of typical turnaround
+  - Served as the go-to resolution authority during a company-wide reporting-system outage
 
-`2022 - 2024`
+`2022 - 2023`
 - __Data Scientist__, Join Parachute (Austin, TX)
   - Built the compliance algorithms determining legal eligibility to ship regulated product — the origin of the Unit Verification Report (UVR)
   - Led the rollout of a digital health-questionnaire system, moving manual paper-based review to a SQL-based QA tool
   - Identified and fixed a data bug causing non-compliant shipments, and caught fraudulent appointment filings at company locations
   - Built automations for customer electronic shipment file generation, shipment record reporting, and monthly regulatory biostatistics reporting
+  - Partnered with the Quality organization to encode three controlled SOPs and federal shipment regulations into automated compliance logic, replacing a manual review workstream and earning a company-wide shoutout for eliminating "hundreds of hours of review work"
+  - Migrated the compliance reporting system onto Snowflake and fully automated it; built the company's first GitHub repository, still in active use four years later
 
 `2021 - 2022`
 - __Software Engineer__ (Contract), Galileo (Remote)
